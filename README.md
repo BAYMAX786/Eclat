@@ -1,0 +1,2 @@
+# Eclat
+Asssociation rule learning
